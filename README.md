@@ -15,9 +15,9 @@ This code takes three inputs from the user to determine this:
 	Energy [MeV]   |   z position on detector [0-1]
 
 ### 1) The expected kinematics line:
-Calculated using Catkin (Other relativistic kinematics calculators are available on the market)
 	               Col 1                   |      Col 2
 	Angle [degrees, smallest to largest]   |   Energy [MeV]
+Calculated using Catkin (Other relativistic kinematics calculators are available on the market)
 
 ### 3) A TCutG gate around the data that corresponds to the state you are fitting to
 
